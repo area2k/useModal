@@ -1,5 +1,5 @@
 {
-  "name": "@area2k/useModal",
+  "name": "@area2k/use-modal",
   "version": "0.0.1",
   "description": "A simple react hook to show a modal",
   "license": "MIT",
@@ -39,5 +39,8 @@
       "react",
       "react-dom"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
